@@ -8,4 +8,4 @@ In this visualization I used data from [Shivam Bansal on Kaggle](https://www.kag
 
 ## Coffee Production and Exports in 2018
 In this visualization I used data from [Yaman Eren Ay on Kaggle](https://www.kaggle.com/yamaerenay/ico-coffee-dataset-worldwide?select=total-production.csv). There were many datasets available regarding coffee exports, production, imports, and prices. 
-
+![Coffee Exports vs Production in 2018](Coffee_production.png)
